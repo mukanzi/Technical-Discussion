@@ -7,3 +7,7 @@ This is a demo repo for sharing ideas around communication.
 * One
 * Two
 * Three
+
+1. One
+2. Two
+3. Three
